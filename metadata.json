@@ -1,0 +1,6 @@
+{
+  "name": "Español - Armenio Conversacional",
+  "description": "Իսպաներենի և հայերենի խոսակցական հարց ու պատասխանների ուսուցում ըստ ժամանակների (Presente, Pretérito, Futuro).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
